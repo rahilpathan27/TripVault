@@ -1,19 +1,19 @@
-# 🌍 TripVault
+# TripVault
 
 **TripVault** is a travel wallet web app built with the **MERN stack**. It allows users to securely store important travel documents and track daily expenses — all in one place.
 
-## ✈️ Features
+## Features
 - 📁 Organize and tag travel documents
 - 💸 Log daily trip expenses
 - 🧳 View and manage past journeys
 - 👤 User profile & settings via hamburger menu
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend**: React
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repository
